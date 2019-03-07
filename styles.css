@@ -1,0 +1,19 @@
+h1{
+    color:#990099 ;
+    text-shadow: 2px 4px #0039e6;
+    text-align: center;
+}
+h2{
+    color:white;
+}
+button {
+    font-size: 30px;
+    color: #80ffbf;
+    background-color:grey;
+}
+body{
+ background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Gif-Backgrounds-Free-Download.gif");
+ background-color: #000000;
+ text-align: center;
+ color: white;
+}
